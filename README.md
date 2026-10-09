@@ -1,6 +1,6 @@
-# Kovaaks-Theme-Purple
+# Kovaaks-Theme-AmethystDusk
 
-<img width="640" height="360" alt="Purple" src="https://github.com/user-attachments/assets/08c48f8e-a08f-4228-97ba-5d8cac0c4525" />
+<img width="640" height="360" alt="AmethystDusk" src="https://github.com/user-attachments/assets/08c48f8e-a08f-4228-97ba-5d8cac0c4525" />
 
 Download the .json file in this repository. Now, go on Steam, open up KovaaK's Steam page, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
 
